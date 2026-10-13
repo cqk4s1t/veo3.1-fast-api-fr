@@ -10,7 +10,7 @@
   <img src="assets/01-product-ad-ceramic-mug-thumb.jpg" width="820" alt="Veo 3.1 Fast (veo3.1-fast) output preview generated through APIMart">
 </p>
 
-> per generated second — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
+> **from $0.064 per second** at 720P (1080P $0.08) — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
 
 **[Get an API key](https://go.apimart.ai/k-49d21b)** · **[Live pricing](https://go.apimart.ai/k-f58352)** · **[Model page](https://go.apimart.ai/k-1a5a67)** · [⚡ 60-second quickstart](#quickstart)
 
